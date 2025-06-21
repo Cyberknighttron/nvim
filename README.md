@@ -16,18 +16,20 @@
 
 ```bash
 ~/.config/nvim
+
 🔌 Plugin Highlights
-Plugin	Purpose
-lazy.nvim	Fast and minimal plugin manager
-tokyonight.nvim	Beautiful and modern Neovim theme
-telescope.nvim	Fuzzy finder + file explorer
-nvim-treesitter	Better syntax highlighting
-lualine.nvim	Lightweight statusline
-nvim-tree.lua	File explorer sidebar
-toggleterm.nvim	Floating terminal inside Neovim
+Plugin	                 Purpose
+lazy.nvim	         Fast and minimal plugin manager
+tokyonight.nvim	   Beautiful and modern Neovim theme
+telescope.nvim	   Fuzzy finder + file explorer
+nvim-treesitter	   Better syntax highlighting
+lualine.nvim	     Lightweight statusline
+nvim-tree.lua	     File explorer sidebar
+toggleterm.nvim	   Floating terminal inside Neovim
 code-runner	Custom keymaps to run code directly
 
-🧪 Custom Features
+Custom Features -
+
 🚀 Run Code in Terminal with custom keybinds
 
 🗂️ Project navigation using Telescope + NvimTree
@@ -38,12 +40,13 @@ code-runner	Custom keymaps to run code directly
 
 🎯 Custom keymaps for faster coding
 
-⚙️ Setup Instructions
-# Clone the config
-git clone https://github.com/your-username/nvim-config ~/.config/nvim
 
+⚙️ Setup Instructions-
+# Clone the config
+git clone https://github.com/Cyberknighttron/nvim-config ~/.config/nvim
 # Launch Neovim and let lazy.nvim do the rest
-🎮 Key Mappings (Sample)
+
+🎮 Key Mappings (Sample)-
 Keybind	Action
 <leader>ff	Telescope file search
 <leader>tt	Toggle Terminal
@@ -55,7 +58,5 @@ If you're a fellow ricer or Neovim user, feel free to fork and enhance! PRs and 
 
 📌 Credits
 lazy.nvim
-
 tokyonight.nvim
-
 telescope.nvim
