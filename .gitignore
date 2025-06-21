@@ -1,0 +1,21 @@
+# Swap files
+*.swp
+*.swo
+*~
+
+# Plugin directories (if packed manually)
+pack/*/start/*
+
+# Lazy.nvim lock file
+lazy-lock.json
+
+# VS Code workspace settings (if editing via VS Code)
+.vscode/
+
+# Ignore node/npm stuff (if using JS/TS plugins)
+node_modules/
+package-lock.json
+
+# Ignore Python virtualenvs
+venv/
+__pycache__/
