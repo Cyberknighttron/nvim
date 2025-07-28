@@ -1,7 +1,7 @@
 # My Neovim Config
 
 <p align="center">
-  💻 Customized setup for a productive and beautiful development experience on Linux (Kubuntu) with <b>lazy.nvim</b> and <b>Tokyo Night</b>.
+   Customized setup for a productive and beautiful development experience on Linux (Kubuntu) with <b>lazy.nvim</b> and <b>Tokyo Night</b>.
 </p>
 
 <p align="center">
